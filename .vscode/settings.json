@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+    "python.jediEnabled": true,
+    "python.languageServer": "Jedi"
+}
